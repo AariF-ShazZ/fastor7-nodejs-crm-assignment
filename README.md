@@ -28,7 +28,7 @@ The application allows employees (counselors) to register and log in, students t
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/AariF-ShazZ/fastor7-nodejs-crm-assignment
 cd fastor7-nodejs-crm-assignment
 ```
 
